@@ -1,0 +1,7 @@
+#Fri Sep 29 10:11:19 WIB 2017
+base.0=/home/khilman/Downloads/BasicStarterPack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_caf98e0dee73ea448b076573bf6ef18a47f01539
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Downloads/BasicStarterPack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2448e62d2f88cd884809b28da736beea1091e966/classes.dex
+base.1=/home/khilman/Downloads/BasicStarterPack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2448e62d2f88cd884809b28da736beea1091e966
+file.0=/home/khilman/Downloads/BasicStarterPack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_caf98e0dee73ea448b076573bf6ef18a47f01539/classes.dex
